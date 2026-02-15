@@ -4,10 +4,11 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM244dWUzZW40eGYybDFnaXM2amtmMXYzMWM0YWF0ZDk5cnlmYXgzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif" width="800">
 </p>
 
+<h1 align="center">Sobre mi:</h1>
 <h2 align="center" style="font-size:50px;">
-    💡 Aprendiendo a desarrollar
-    💻 Por el momento python, html, css, javascript, markdown, y poco mas
-    👷 Futuro ingeniero de software
+    💡 Aprendiendo a desarrollar<br>
+    💻 Por el momento python, html, css, javascript, markdown, y poco mas<br>
+    👷 Futuro ingeniero de software<br>
 </h2>
 
 
