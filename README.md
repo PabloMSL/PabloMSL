@@ -6,8 +6,8 @@
 
 <h1 align="center">Sobre mi:</h1>
 <h2 align="start" style="font-size:50px;">
-    💡 Aprendiendo a desarrollar<br>
-    💻 Por el momento python, html, css, javascript, markdown, y poco mas<br>
+    💡 Aprendiendo a desarrollar<br><br>
+    💻 Por el momento python, html, css, javascript, markdown, y poco mas<br><br>
     👷 Futuro ingeniero de software<br>
 </h2>
 
